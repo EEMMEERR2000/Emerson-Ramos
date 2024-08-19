@@ -28,9 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EEMMEERR2000/EEMMEERR2000/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
